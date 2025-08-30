@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Naman Chaturvedi 👋  
 
-<!--
-**naman-1905/naman-1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Former UI/UX Designer → Full Stack Developer**  
+Integrated Masters in Computer Science | Passionate about **AI** & **Technological Innovations**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🎨 Transitioned from **UI/UX Design** into **Full Stack Development**  
+- 💻 Currently working on **Full Stack Projects**  
+- 🌱 Always curious about **AI**, **innovative tech**, and **creative problem solving**  
+
+---
+
+### 🛠️ Tech Stack  
+**Frontend:** Next.js, React, Tailwind CSS, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Design Tools:** Adobe Creative Suite (Photoshop, After Effects, Premiere Pro)  
+
+---
+
+### 📊 GitHub Stats  
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-1905&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-1905&layout=compact&theme=radical)  
+
+---
+
+### 🌱 Beyond Code  
+- 🎧 Music  
+- 📖 Reading Books  
+- 🎬 Watching Sci-Fi Movies  
+- 💻 Coding  
+- ✨ Quote I like: *"Trying to do better"* – Peter Parker  
+
+---
+
+### 🔗 Connect with Me  
+[![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://halfskirmish.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman1905)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namansdiaries@gmail.com)  
+
+---
+
+✨ *"Design thinking meets Full Stack Engineering — building user-centered digital experiences."*  
