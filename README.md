@@ -19,10 +19,12 @@ Integrated Masters in Computer Science | Passionate about **AI** & **Technologic
 **Design Tools:** Adobe Creative Suite (Photoshop, After Effects, Premiere Pro)  
 
 ---
+### 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com?user=naman-1905&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### 📊 GitHub Stats  
 ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-1905&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-1905&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-1905&layout=compact&theme=radical) 
 
 ---
 
