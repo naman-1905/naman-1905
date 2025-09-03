@@ -1,7 +1,9 @@
-# Hi, I'm Naman Chaturvedi!
+# Hi, I'm Naman Chaturvedi! :wave:
+
 
 **A UI/UX Designer and Full Stack Developer**  
 Integrated Masters in Computer Science | Passionate about **AI** & **Technological Innovations**  
+
 ---
 
 ### Know more about me
