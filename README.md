@@ -1,7 +1,15 @@
-# Hi, I'm Naman Chaturvedi 👋  
+# Hi, I'm Naman Chaturvedi!
 
-**Former UI/UX Designer → Full Stack Developer**  
+**A UI/UX Designer and Full Stack Developer**  
 Integrated Masters in Computer Science | Passionate about **AI** & **Technological Innovations**  
+---
+
+### Know more about me
+**My Portfolio Website**
+[https://halfskirmish.com](https://halfskirmish.com)
+
+**My AI Chatbot**
+[https://chat.halfskirmish.com](https://chat.halfskirmish.com)
 
 ---
 
@@ -19,21 +27,11 @@ Integrated Masters in Computer Science | Passionate about **AI** & **Technologic
 **Design Tools:** Adobe Creative Suite (Photoshop, After Effects, Premiere Pro)  
 
 ---
-### 🔥 Streak Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=naman-1905&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### 📊 GitHub Stats  
 ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-1905&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-1905&layout=compact&theme=radical) 
-
----
-
-### 🌱 Beyond Code  
-- 🎧 Music  
-- 📖 Reading Books  
-- 🎬 Watching Sci-Fi Movies  
-- 💻 Coding  
-- ✨ Quote I like: *"Trying to do better"* – Peter Parker  
 
 ---
 
