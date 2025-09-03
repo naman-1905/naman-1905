@@ -44,4 +44,3 @@ Integrated Masters in Computer Science | Passionate about **AI** & **Technologic
 
 ---
 
-✨ *"Design thinking meets Full Stack Engineering — building user-centered digital experiences."*  
