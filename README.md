@@ -22,12 +22,23 @@ Integrated Masters in Computer Science | Passionate about **AI** & **Technologic
 
 ---
 
-### 🛠️ Tech Stack  
-**Frontend:** Next.js, React, Tailwind CSS, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Design Tools:** Adobe Creative Suite (Photoshop, After Effects, Premiere Pro)  
 
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,javascript,nodejs,express,mongodb,python,&theme=light&perline=5" />
+</p>
+
+**Design Tools**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" alt="Illustrator" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
+
+---
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=naman-1905&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
