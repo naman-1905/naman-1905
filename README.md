@@ -42,9 +42,11 @@ Integrated Masters in Computer Science | Passionate about **AI** & **Technologic
 [![GitHub Streak](https://streak-stats.demolab.com?user=naman-1905&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### 📊 GitHub Stats  
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-1905&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-1905&layout=compact&theme=radical) 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naman-1905&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-1905&layout=compact&theme=radical" height="180" />
+</div>
 ---
 
 ### 🔗 Connect with Me  
