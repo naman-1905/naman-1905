@@ -39,7 +39,6 @@ Integrated Masters in Computer Science | Passionate about **AI** & **Technologic
 </p>
 
 ---
----
 [![GitHub Streak](https://streak-stats.demolab.com?user=naman-1905&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### 📊 GitHub Stats  
