@@ -1,8 +1,8 @@
 # Hi, I'm Naman Chaturvedi! :wave:
 
 
-**A UI/UX Designer and Full Stack Developer**  
-Integrated Masters in Computer Science | Passionate about **AI** & **Technological Innovations**  
+**A Full Stack Developer & UI/UX Designer**  
+Integrated Masters in Computer Science | Passionate about **Computers,** **AI** & **Technological Innovations**  
 
 ---
 
@@ -16,7 +16,6 @@ Integrated Masters in Computer Science | Passionate about **AI** & **Technologic
 ---
 
 ### 🚀 About Me  
-- 🎨 Transitioned from **UI/UX Design** into **Full Stack Development**  
 - 💻 Currently working on **Full Stack Projects**  
 - 🌱 Always curious about **AI**, **innovative tech**, and **creative problem solving**  
 
