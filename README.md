@@ -39,20 +39,27 @@ Integrated Masters in Computer Science | Passionate about **AI** & **Technologic
 </p>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=naman-1905&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-### 📊 GitHub Stats  
-
+### 🛠️ GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naman-1905&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-1905&layout=compact&theme=radical" height="180" />
+  <img src="https://streak-stats.demolab.com?user=naman-1905&theme=radical&hide_border=true" height="180" />
 </div>
+
 ---
 
-### 🔗 Connect with Me  
-[![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://halfskirmish.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman1905)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namansdiaries@gmail.com)  
+### 🔗 Connect with Me
+<div align="center">
+  <a href="https://halfskirmish.com">
+    <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=Google-chrome&logoColor=white" style="margin: 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/naman1905">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 10px;" />
+  </a>
+  <a href="mailto:namansdiaries@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 10px;" />
+  </a>
+</div>
 
 ---
 
