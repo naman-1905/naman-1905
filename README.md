@@ -40,9 +40,7 @@ Integrated Masters in Computer Science | Passionate about **Computers,** **AI** 
 ---
 ### 🛠️ GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naman-1905&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-1905&layout=compact&theme=radical" height="180" />
-  <img src="https://streak-stats.demolab.com?user=naman-1905&theme=radical&hide_border=true" height="180" />
 </div>
 
 ---
