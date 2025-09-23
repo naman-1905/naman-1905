@@ -25,7 +25,7 @@ Integrated Masters in Computer Science | Passionate about **Computers,** **AI** 
 ### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,javascript,nodejs,express,mongodb,python,fastapi,flask,&theme=light&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,javascript,nodejs,express,mongodb,python,fastapi,flask,postgresql,&theme=light&perline=5" />
 </p>
 
 **Design Tools**
