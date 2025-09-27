@@ -11,7 +11,7 @@ Integrated Masters in Computer Science | Passionate about **Computers,** **AI** 
 [https://halfskirmish.com](https://halfskirmish.com)
 
 **My AI Chatbot**
-[https://chat.halfskirmish.com](https://ai.halfskirmish.com)
+[https://ai.halfskirmish.com](https://ai.halfskirmish.com)
 
 ---
 
