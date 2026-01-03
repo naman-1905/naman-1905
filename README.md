@@ -8,10 +8,10 @@ Integrated Masters in Computer Science | Passionate about **Computers,** **AI** 
 
 ### Know more about me
 **My Portfolio Website**
-[https://halfskirmish.com](https://halfskirmish.com)
+[https://halfskirmish.com](https://halfskirmish.com) (Currently being updated)
 
 **My AI Chatbot**
-[https://ai.halfskirmish.com](https://ai.halfskirmish.com)
+[https://ai.halfskirmish.com](https://ai.halfskirmish.com) (Currently being updated)
 
 ---
 
