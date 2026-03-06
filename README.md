@@ -6,12 +6,6 @@ Integrated Masters in Computer Science | Passionate about **Computers,** **AI** 
 
 ---
 
-### Know more about me
-**My Portfolio Website**
-[https://namanchaturvedi.com](https://namanchaturvedi.com) (Currently being updated)
-
----
-
 ### About Me  
 - 💻 Currently working on **Full Stack Projects**  
 - 🌱 Always curious about **AI**, **innovative tech**, and **creative problem solving**  
