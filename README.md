@@ -32,7 +32,7 @@ Integrated Masters in Computer Science | Passionate about **Computers,** **AI** 
 
 ### Connect with Me
 <div align="center">
-  <a href="https://halfskirmish.com">
+  <a href="https://namanchaturvedi.com">
     <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=Google-chrome&logoColor=white" style="margin: 10px;" />
   </a>
   <a href="https://linkedin.com/in/naman1905">
